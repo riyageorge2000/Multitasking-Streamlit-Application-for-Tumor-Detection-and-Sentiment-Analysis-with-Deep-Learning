@@ -1,4 +1,5 @@
 # Multitasking_App
+## Multitasking-Streamlit-Application-for-Tumor-Detection-and-Sentiment-Analysis-with-Deep-Learning
 
 This is a Streamlit app that performs multitasking, including tumor detection and sentiment classification. It uses various deep learning models for different tasks.
 
